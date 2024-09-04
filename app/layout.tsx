@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 const oswald = Oswald({
   subsets: ["latin"],
   weight: ["200", "300", "400", "500", "600", "700"],
-  variable: "--font-oswal",
+  variable: "--font-oswald",
 });
 const roboto = Roboto({
   subsets: ["latin"],
